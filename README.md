@@ -1,7 +1,7 @@
 # Custom JSON Rendering Using Rails
 
 ## Learning Goals
-
+ 
 - Render JSON from a Rails controller
 - Select specific model attributes to render in a Rails controller
 
